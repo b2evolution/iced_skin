@@ -6,9 +6,9 @@ if( !defined('EVO_MAIN_INIT') ) die( 'Please, do not access this page directly.'
  *
  * ATTENTION: if you make a new skin you have to change the class name below accordingly
  */
-class Iced_Skin extends Skin
+class iced_Skin extends Skin
 {
-	var $version = '1.1';
+	var $version = '1.1.1';
    
    /**
 	 * Get default name for the skin.
